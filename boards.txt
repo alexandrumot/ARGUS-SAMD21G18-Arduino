@@ -17,8 +17,8 @@
 # Argus Watcher (Native USB Port)
 # --------------------------------------
 argus_watcher.name=Argus Watcher (Native USB Port)
-argus_watcher.vid.0=0x2341
-argus_watcher.pid.0=0x804d
+argus_watcher.vid.0=0x1366
+argus_watcher.pid.0=0x0105
 argus_watcher.vid.1=0x2341
 argus_watcher.pid.1=0x004d
 argus_watcher.vid.2=0x2341
